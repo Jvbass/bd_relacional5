@@ -6,12 +6,12 @@ Nombres: Gustavo Ruiz Saumon, Juan Pino Contreras,Jorge Moraga Calvo, Harold Kla
 
 ### Instrucciones de uso
 1. Selecciona y ejecuta la linea
-    CREATE DATABASE bdabpro5;
+    - CREATE DATABASE bdabpro5;
 
 2. Ejecuta las instrucciones para crear un usuario y otorgarle todos los privilegios
-    CREATE USER 'adminbdabpro5'@'localhost' IDENTIFIED BY '123456';
-    GRANT ALL PRIVILEGES ON bdabpro5.* TO 'adminbdabpro5'@'localhost';
-    FLUSH PRIVILEGES;
+    -CREATE USER 'adminbdabpro5'@'localhost' IDENTIFIED BY '123456';
+    -GRANT ALL PRIVILEGES ON bdabpro5.* TO 'adminbdabpro5'@'localhost';
+    -FLUSH PRIVILEGES;
 
 3. Para usar la base de dato ejecuta USE bdabpro5;
 
