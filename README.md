@@ -15,7 +15,7 @@ Nombres: Gustavo Ruiz Saumon, Juan Pino Contreras,Jorge Moraga Calvo, Harold Kla
     - GRANT ALL PRIVILEGES ON bdabpro5.* TO 'adminbdabpro5'@'localhost';
     - FLUSH PRIVILEGES;
 
-3. Para usar la base de dato ejecuta USE bdabpro5;
+3. Para usar la base de datos ejecuta USE bdabpro5;
 
 4. Ejecuta los ejercicios uno por uno y comprueba el resultado con la linea DESCRIBE ó SELECT descrita al final de cada ejercicio.
 
