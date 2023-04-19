@@ -1,6 +1,6 @@
-#Ejercicios ABPro AE5
-##“Te lo vendo” – Iteración 5
-##Bases de datos relacionales – DDL
+# Ejercicios ABPro AE5
+## “Te lo vendo” – Iteración 5
+## Bases de datos relacionales – DDL
 
 Nombres: Gustavo Ruiz Saumon, Juan Pino Contreras,Jorge Moraga Calvo, Harold Klapp.
 
